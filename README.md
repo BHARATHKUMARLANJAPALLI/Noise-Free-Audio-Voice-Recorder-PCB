@@ -82,7 +82,7 @@ Through these hands-on projects, I mastered schematic capture, component selecti
  Developed a high-fidelity ESP32-based voice recorder system incorporating an I2S digital microphone interface and hardware power path management. Designed the multi-layer printed circuit board in KiCad under the 'Soul Land' brand, prioritizing low-noise power supply decoupling, analog-digital ground separation, and optimized audio trace routing for crystal-clear audio acquisition.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/LANJAPALLI-BHARATH-KUMAR-g5-pcb/blob/5cac9afe9ad0b8e488fe11fb62e56a59e5710d3c/proreport%20(8).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/BHARATHKUMARLANJAPALLI/Noise-Free-Audio-Voice-Recorder-PCB/blob/main/proreport%20(8).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
