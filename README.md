@@ -94,7 +94,7 @@ Through these hands-on projects, I mastered schematic capture, component selecti
 </p>
 </p>
 <p>
-  <a href="https://github.com/sure-trust/LANJAPALLI-BHARATH-KUMAR-g5-pcb/blob/7ce38f129eb31ddf97ba63db6cf79bb6bca89c19/Course%20report/RA6M5%20Pro%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/BHARATHKUMARLANJAPALLI/Noise-Free-Audio-Voice-Recorder-PCB/blob/main/RA6M5%20Pro%20Report%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
